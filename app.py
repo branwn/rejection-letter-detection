@@ -24,10 +24,10 @@ def process_text():
     # Print the received text (optional)
     print("Received text:", text_input)
 
-    res = "non-Rejucted"
+    res = "non-Rejected"
 
     if getSpam(text_input) == "1":
-        res = "Rejucted"
+        res = "Rejected"
 
 
     # Return "accept" each time
