@@ -23,7 +23,7 @@ jobs:
     - name: Build and Push the Docker image
       run: | 
         docker login
-        export TAG="brandon233/rejection-letter-detection:latest)"
+        export TAG="brandon233/rejection-letter-detection:latest"
         docker build . --file Dockerfile --tag ${TAG}
         docker push ${TAG}
       
