@@ -1,6 +1,5 @@
 flask
 pandas
-sklearn
 scikit-learn
 joblib
 torch
