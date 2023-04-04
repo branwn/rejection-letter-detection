@@ -1,12 +1,14 @@
 # Rejection Letter Detection
 
 
-
 ### Training Data
 
+https://www.kaggle.com/datasets/sethpoly/application-rejection-emails
+
+
+### Model
+
 https://www.kaggle.com/datasets/datatattle/email-classification-nlp
-
-
 
 
 
