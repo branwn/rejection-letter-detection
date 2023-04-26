@@ -1,6 +1,8 @@
 # Rejection Letter Detection
 This is a microservice that can recognize and reject emails. It uses an NLP-based spam classification model, trained on rejection letters, and achieves over 90% accuracy.
 
+### Demo Video
+https://drive.google.com/file/d/18YgrAxT73_PZ8kd3Prs1lj1QNDLBToKK/view?usp=sharing
 
 ### Frameworks
 flask
