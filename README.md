@@ -30,7 +30,9 @@ curl -X POST -d "text-input=Hello, unfortunately..." http://localhost:7890/api
 
 
 ### References:
+
 Training Data: https://www.kaggle.com/datasets/sethpoly/application-rejection-emails
+
 Model: https://www.kaggle.com/datasets/datatattle/email-classification-nlp
 
 
