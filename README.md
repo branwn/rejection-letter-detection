@@ -25,7 +25,7 @@ http://localhost:7890/
 
 terminal: 
 ```
-curl -X POST -d "text-input=Hello, unfortunately..." http://34.219.56.63:5000/api
+curl -X POST -d "text-input=Hello, unfortunately..." http://localhost:7890/api
 ```
 
 
